@@ -1,0 +1,41 @@
+div.q1 {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: darkblue;
+    position: absolute;
+    left: 0px;
+    top: 0px
+}
+
+h1 {
+    color: white;
+}
+
+div.s2 {
+    color: white;
+    background-color: #9FABFF;
+    width: 1720px;
+    height: 200px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+div.s3 {
+    background-color: #FFCA19;
+    width: 740px;
+    height: 750px;
+    position: absolute;
+    left: 0px;
+    bottom: 10px
+}
+
+div.s4 {
+    background-color: #FFC400;
+    width: 1200px;
+    height: 750px;
+    position: absolute;
+    right: 0px;
+    bottom: 10px
+}
