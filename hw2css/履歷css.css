@@ -1,8 +1,5 @@
-body {
-    font-family: wcl-02;
-}
-
 div.q1 {
+    font-family: wcl-02;
     width: 200px;
     height: 200px;
     text-align: center;
