@@ -1,3 +1,11 @@
+#main_background {
+    width: 1080px;
+    height: 720px;
+    background-color: white;
+    position: relative;
+    margin: 0px auto;
+}
+
 div.q1 {
     font-family: wcl-02;
     width: 200px;
@@ -23,24 +31,24 @@ div.s2 {
     right: 0px;
     top: 0px;
     width: 80%;
+    float: left;
 }
 
 div.s3 {
     background-color: #FFCA19;
     position: absolute;
-    width: 740px;
     height: 500px;
     left: 0px;
-    top: 200px;
+    top: 27.5%;
     width: 50%;
 }
 
 div.s4 {
     background-color: #FFC400;
     position: absolute;
-    width: 900px;
     height: 500px;
     right: 0px;
-    top: 200px;
+    top: 27.5%;
     width: 50%;
+    float: left;
 }
