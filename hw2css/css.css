@@ -6,7 +6,8 @@ div.q1 {
     position: absolute;
     background-color: darkblue;
     left: 0px;
-    top: 0px
+    top: 0px;
+    width: 20%;
 }
 
 h1 {
@@ -21,6 +22,7 @@ div.s2 {
     position: absolute;
     right: 0px;
     top: 0px;
+    width: 80%;
 }
 
 div.s3 {
@@ -30,6 +32,7 @@ div.s3 {
     height: 500px;
     left: 0px;
     top: 200px;
+    width: 50%;
 }
 
 div.s4 {
@@ -38,5 +41,6 @@ div.s4 {
     width: 900px;
     height: 500px;
     right: 0px;
-    top: 200px
+    top: 200px;
+    width: 50%;
 }
