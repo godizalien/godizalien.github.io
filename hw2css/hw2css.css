@@ -6,7 +6,6 @@
     margin: 0px auto;
 }
 
-
 div.q1 {
     font-family: wcl-02;
     width: 200px;
@@ -38,7 +37,7 @@ div.s2 {
 div.s3 {
     background-color: #FFCA19;
     position: absolute;
-    height: 500px;
+    height: 80%;
     left: 0px;
     top: 27.5%;
     width: 50%;
@@ -47,7 +46,7 @@ div.s3 {
 div.s4 {
     background-color: #FFC400;
     position: absolute;
-    height: 500px;
+    height: 80%;
     right: 0px;
     top: 27.5%;
     width: 50%;
