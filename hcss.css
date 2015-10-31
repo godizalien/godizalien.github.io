@@ -1,0 +1,21 @@
+ul li {
+    float: left;
+    display: block;
+    background-color: black;
+    width: 150;
+    text-align: center;
+    line-height: 50px;
+    font-size: 14pt
+}
+
+.list {
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    height: 50px
+}
+
+ul li a {
+    color: grey;
+    text-decoration: none
+}
